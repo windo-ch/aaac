@@ -25,9 +25,6 @@
       "@/*": [
         "./src/*"
       ],
-      "@payload-config": [
-        "./payload.config.ts"
-      ]
     },
     "target": "ES2017"
   },
@@ -38,8 +35,6 @@
     ".next/types/**/*.ts"
   ],
   "exclude": [
-    "node_modules",
-    "import-pieces.ts",
-    "seed.ts"
+    "node_modules"
   ]
 }

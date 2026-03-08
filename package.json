@@ -6,21 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "import": "npx tsx import-pieces.ts",
-    "seed": "curl -s 'http://localhost:3000/api/seed?token=seed-aaac-2024&reset=true' | node -e \"process.stdin.resume();process.stdin.setEncoding('utf8');let d='';process.stdin.on('data',c=>d+=c);process.stdin.on('end',()=>{const r=JSON.parse(d);r.results?.forEach(l=>console.log(l));console.log(r.ok?'\\nDone.':'\\nFailed:',r.error||'');})\""
+    "lint": "next lint"
   },
   "dependencies": {
     "@crossmint/client-sdk-react-ui": "^2.6.18",
-    "@payloadcms/db-sqlite": "^3.77.0",
-    "@payloadcms/next": "^3.77.0",
-    "@payloadcms/richtext-lexical": "^3.77.0",
-    "@payloadcms/storage-vercel-blob": "^3.77.0",
-    "better-sqlite3": "^12.6.2",
-    "date-fns": "^4.1.0",
     "framer-motion": "^11.0.0",
     "next": "15.3.9",
-    "payload": "^3.77.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "sharp": "^0.33.0"
