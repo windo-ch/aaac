@@ -1,0 +1,47 @@
+# Art As A Consequence (AAAC)
+
+## What is AAAC?
+Art As A Consequence (AAAC) is a ceramics studio and gallery by Dimitria Barrows, based in Zug, Switzerland (Crypto Valley). The studio produces handmade stoneware ceramics — functional sculptural vessels — that explore value formation in internet memes, crypto culture, economics, and onchain dynamics.
+
+Each piece is unique, boldly glazed, and created with utility in mind. All artworks are NFC-chipped and onchain-registered on the Base blockchain, existing as physical-digital twins.
+
+## Who is Dimitria Barrows?
+Dimitria Barrows is a contemporary ceramic artist based in Zug, Switzerland. She graduated from ZHdK (Zürcher Hochschule der Künste) with a BA in Fine Arts in 2015 and attended workshops at the Royal Academy of Arts, London (2008–2010).
+
+Barrows spent a decade working in the art industry — at Gagosian (London) and Galerie Thaddaeus Ropac (Paris/Salzburg) — handling exhibitions, sales, and artists' studios. She also ran an art advisory practice (Art As A Consequence, the former iteration) specializing in marketing, studio management, Web2/Web3 digitalization, and strategic partnerships.
+
+Notable advisory clients included:
+- The Oskar Schlemmer Theatre Archives
+- Wolfgang Beltracchi
+
+In 2024, she returned to her own creative practice, making ceramics under the AAAC name.
+
+Twitter/X: @dimitria1337
+
+## The Ceramics
+- Medium: Handmade stoneware
+- Each piece: unique, functional, sculptural
+- NFC-chipped for physical-digital verification
+- Registered on Base blockchain
+- Themes: crypto culture, internet memes, value theory, onchain dynamics
+- Available for purchase with international shipping
+
+## Key Pages
+- / — Homepage / gallery grid
+- /work — Full collection view
+- /about — Dimitria Barrows biography
+- /piece/[slug] — Individual artwork detail page
+- /blast-from-the-past — Archive of the former art advisory practice
+- /blast-from-the-past/about — Art professional biography
+- /blast-from-the-past/art-direction — Jeff Koons campaigns and strategic partnerships
+- /blast-from-the-past/interviews — Conversations with artists, collectors, curators
+
+## Key Themes
+- Ceramics as collectible timestamps of crypto culture
+- Physical-digital twins via NFC + blockchain registration
+- Value formation in internet memes and financial systems
+- Bridge between contemporary art world and web3 space
+- Handcraft as counter-signal to purely digital assets
+
+## Domain
+https://artasaconsequence.net

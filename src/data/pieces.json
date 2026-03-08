@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "dont-believe-me",
+    "title": "Don't Believe Me Vessel",
+    "price": 1200,
+    "available": true,
+    "images": ["/images/pieces/dont-believe-me/01.png"],
+    "description": "A declaration in glaze. The classic Bart Simpson chalkboard — 'Don't Believe Me' repeated in disciplined cursive — wraps this wheel-thrown vessel in warm terracotta. Cultural artifact meets ceramic tradition. Bart's rebellious repetition becomes a meditation on skepticism, the kind that serves you in a world of noise.",
+    "themes": ["skepticism", "pop culture", "repetition", "meme mythology"],
+    "tags": ["vase", "orange", "pop art", "bart simpson", "chalkboard"],
+    "metadata": {
+      "traits": [
+        { "label": "Medium", "value": "Stoneware" },
+        { "label": "Glaze", "value": "Terracotta orange, black underglaze" },
+        { "label": "Height", "value": "~12 inches" },
+        { "label": "Firing", "value": "Cone 6 oxidation" },
+        { "label": "Origin", "value": "Studio wheel-thrown" },
+        { "label": "Edition", "value": "1 of 1" }
+      ]
+    },
+    "onchain": {
+      "nft": false,
+      "nfc": true,
+      "chain": "Base",
+      "contractAddress": null,
+      "tokenId": null
+    },
+    "shipping": {
+      "available": true,
+      "domestic": "Free",
+      "international": "$45",
+      "handling": "7–14 days",
+      "notes": "Custom packed in archival foam. Certificate of authenticity included."
+    }
+  },
+  {
+    "slug": "garden-of-eden",
+    "title": "Garden of Eden Vessel",
+    "price": 1400,
+    "available": true,
+    "images": ["/images/pieces/garden-of-eden/01.png"],
+    "description": "The original story, retold in cobalt and irony. Adam and Eve navigate their garden with the help of a very contemporary serpent — one who's heard of the internet. Pooling blue glaze gives depth to paradise. This piece asks: was the knowledge worth it? (We think yes.)",
+    "themes": ["mythology", "knowledge", "temptation", "meme culture", "origin stories"],
+    "tags": ["vase", "blue", "biblical", "adam eve", "serpent", "meme"],
+    "metadata": {
+      "traits": [
+        { "label": "Medium", "value": "Porcelain" },
+        { "label": "Glaze", "value": "Cobalt blue, white slip, black underglaze" },
+        { "label": "Height", "value": "~14 inches" },
+        { "label": "Firing", "value": "Cone 10 reduction" },
+        { "label": "Origin", "value": "Studio wheel-thrown" },
+        { "label": "Edition", "value": "1 of 1" }
+      ]
+    },
+    "onchain": {
+      "nft": false,
+      "nfc": true,
+      "chain": "Base",
+      "contractAddress": null,
+      "tokenId": null
+    },
+    "shipping": {
+      "available": true,
+      "domestic": "Free",
+      "international": "$45",
+      "handling": "7–14 days",
+      "notes": "Custom packed in archival foam. Certificate of authenticity included."
+    }
+  },
+  {
+    "slug": "dont-trust-verify",
+    "title": "Don't Trust, Verify",
+    "price": 1600,
+    "available": true,
+    "images": ["/images/pieces/dont-trust-verify/01.png"],
+    "description": "Bitcoin's foundational principle rendered in gothic letterforms and delicate florals. The tension is the point — dark, commanding typography softened by botanical detail. A vessel for the paranoid and the principled. Trust the math. Verify the glaze.",
+    "themes": ["bitcoin", "cryptography", "trust", "verification", "duality"],
+    "tags": ["vase", "blue", "gothic", "bitcoin", "flowers", "lettering"],
+    "metadata": {
+      "traits": [
+        { "label": "Medium", "value": "Stoneware" },
+        { "label": "Glaze", "value": "Midnight blue, white slip, botanical detail" },
+        { "label": "Height", "value": "~13 inches" },
+        { "label": "Firing", "value": "Cone 6 oxidation" },
+        { "label": "Origin", "value": "Studio wheel-thrown" },
+        { "label": "Edition", "value": "1 of 1" }
+      ]
+    },
+    "onchain": {
+      "nft": true,
+      "nfc": true,
+      "chain": "Base",
+      "contractAddress": null,
+      "tokenId": null
+    },
+    "shipping": {
+      "available": true,
+      "domestic": "Free",
+      "international": "$45",
+      "handling": "7–14 days",
+      "notes": "Custom packed in archival foam. Certificate of authenticity included."
+    }
+  },
+  {
+    "slug": "magic-internet-money",
+    "title": "Magic Internet Money",
+    "price": 1800,
+    "available": true,
+    "images": ["/images/pieces/magic-internet-money/01.png"],
+    "description": "Wizard Pepe conjures the blockchain in warm amber glaze. Floating equations — elliptic curves, hash functions, the whole arcane apparatus — orbit the wizard who started a thousand memes. This piece is for the person who explained Bitcoin at Thanksgiving 2017 and was right.",
+    "themes": ["bitcoin", "magic", "wizard pepe", "crypto", "meme mythology"],
+    "tags": ["vase", "orange", "wizard pepe", "bitcoin", "equations", "crypto"],
+    "metadata": {
+      "traits": [
+        { "label": "Medium", "value": "Stoneware" },
+        { "label": "Glaze", "value": "Amber orange, black underglaze detail" },
+        { "label": "Height", "value": "~15 inches" },
+        { "label": "Firing", "value": "Cone 6 oxidation" },
+        { "label": "Origin", "value": "Studio wheel-thrown" },
+        { "label": "Edition", "value": "1 of 1" }
+      ]
+    },
+    "onchain": {
+      "nft": true,
+      "nfc": true,
+      "chain": "Base",
+      "contractAddress": null,
+      "tokenId": null
+    },
+    "shipping": {
+      "available": true,
+      "domestic": "Free",
+      "international": "$45",
+      "handling": "7–14 days",
+      "notes": "Custom packed in archival foam. Certificate of authenticity included."
+    }
+  },
+  {
+    "slug": "dont-tread",
+    "title": "Don't Tread",
+    "price": 1500,
+    "available": true,
+    "images": ["/images/pieces/dont-tread/01.png"],
+    "description": "The Gadsden flag reimagined through Pepe, rendered in sovereign yellow. Don't Tread On Me becomes Don't Tread — a vessel for anyone who's felt the boot and said no. The snake coils with purpose. The glaze glows with conviction. A piece for the sovereign individual.",
+    "themes": ["sovereignty", "liberty", "gadsden", "pepe", "resistance"],
+    "tags": ["vase", "yellow", "gadsden", "pepe", "snake", "sovereignty"],
+    "metadata": {
+      "traits": [
+        { "label": "Medium", "value": "Stoneware" },
+        { "label": "Glaze", "value": "Sovereign yellow, black underglaze" },
+        { "label": "Height", "value": "~13 inches" },
+        { "label": "Firing", "value": "Cone 6 oxidation" },
+        { "label": "Origin", "value": "Studio wheel-thrown" },
+        { "label": "Edition", "value": "1 of 1" }
+      ]
+    },
+    "onchain": {
+      "nft": false,
+      "nfc": true,
+      "chain": "Base",
+      "contractAddress": null,
+      "tokenId": null
+    },
+    "shipping": {
+      "available": true,
+      "domestic": "Free",
+      "international": "$45",
+      "handling": "7–14 days",
+      "notes": "Custom packed in archival foam. Certificate of authenticity included."
+    }
+  }
+]

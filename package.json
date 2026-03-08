@@ -1,0 +1,39 @@
+{
+  "name": "aaac-26",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "import": "npx tsx import-pieces.ts",
+    "seed": "curl -s 'http://localhost:3000/api/seed?token=seed-aaac-2024&reset=true' | node -e \"process.stdin.resume();process.stdin.setEncoding('utf8');let d='';process.stdin.on('data',c=>d+=c);process.stdin.on('end',()=>{const r=JSON.parse(d);r.results?.forEach(l=>console.log(l));console.log(r.ok?'\\nDone.':'\\nFailed:',r.error||'');})\""
+  },
+  "dependencies": {
+    "@crossmint/client-sdk-react-ui": "^2.6.18",
+    "@payloadcms/db-sqlite": "^3.77.0",
+    "@payloadcms/next": "^3.77.0",
+    "@payloadcms/richtext-lexical": "^3.77.0",
+    "better-sqlite3": "^12.6.2",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^11.0.0",
+    "next": "15.3.9",
+    "payload": "^3.77.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "14.2.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.0.0"
+  }
+}
