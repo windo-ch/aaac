@@ -17,7 +17,10 @@ export default buildConfig({
   collections: [Pieces, Media, Pages, Users],
   editor: lexicalEditor({}),
   db: sqliteAdapter({
-    client: { url: process.env.DATABASE_URI || 'file:./aaac.db' },
+    client: {
+      url: process.env.DATABASE_URI || 'file:./aaac.db',
+      authToken: process.env.DATABASE_AUTH_TOKEN,
+    },
     push: true,
   }),
   plugins: [
