@@ -110,7 +110,7 @@ export default async function AboutPage() {
             <p className="text-base leading-relaxed">
               Based in Zug, Switzerland &mdash; better known as Crypto Valley &mdash; Barrows
               creates handmade stoneware ceramics &mdash; vases and vessels exploring value
-              formation in internet memes, crypto culture, economics, and onchain dynamics.
+              formation in internet memes, crypto culture, economics, onchain dynamics.
             </p>
 
             <p className="text-base leading-relaxed">

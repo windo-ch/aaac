@@ -102,7 +102,7 @@ export function HomeHero({ images }: HomeHeroProps) {
             in the art industry &mdash; at Gagosian, Galerie Thaddaeus Ropac, and among
             others &mdash; before returning to her own practice in 2024. Now she makes
             ceramics: functional sculptural vessels exploring value formation in internet
-            memes, crypto culture, and onchain dynamics.
+            memes, crypto culture, onchain dynamics.
           </p>
 
           <Link
