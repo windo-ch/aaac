@@ -4,7 +4,7 @@
     "title": "Genesis",
     "available": true,
     "images": [
-      "/images/pieces/Genesis/1-dont-trust-verify-pepe-eve-adam-vase-front-dimitria-barrows-art-as-a-consequence.png",
+      "/images/pieces/Genesis/01-adam-eve-tree-knowledge-ceramic-vase-dimitria-barrows-art-as-a-consequence.png",
       "/images/pieces/Genesis/2-adam-eve-tree-knowledge-ceramic-vase-dimitria-barrows-art-as-a-consequence.png",
       "/images/pieces/Genesis/3-adam-eve-forbidden-fruit-vase-detail-dimitria-barrows-art-as-a-consequence.png",
       "/images/pieces/Genesis/4-pepe-snake-dont-trust-verify-ceramic-dimitria-barrows-art-as-a-consequence.png",
@@ -12,9 +12,9 @@
       "/images/pieces/Genesis/6-garden-eden-ceramic-landscape-detail-dimitria-barrows-art-as-a-consequence.png",
       "/images/pieces/Genesis/7-crypto-genesis-pepe-vase-angled-dimitria-barrows-art-as-a-consequence.png"
     ],
-    "description": "This ceramic vessel reinterprets the Genesis narrative through the lens of crypto ethos, transforming the Garden of Eden's temptation into a contemporary memento mori coiled around glazed clay — where Adam himself was formed from clay (Genesis 2:7). The handmade vase depicts Adam and Eve reaching for forbidden fruit beneath the Tree of Knowledge, with Pepe as the sly tempter snake between them. The reverse depicts the Baroque-like scripture 'Don't Trust, Verify', referencing deception, blockchain truth, and humanity's fall. Drawing from Genesis iconography, crypto ethos, and historical ceramic craftsmanship, Barrows blends Renaissance with the tactile ritual of clay.",
-    "themes": ["mythology", "bitcoin", "genesis block", "pepe", "origin stories"],
-    "tags": ["vase", "blue", "pepe", "genesis", "adam and eve"],
+    "description": "This ceramic vessel by Dimitria Barrows reinterprets the Genesis narrative through the lens of crypto ethos, transforming the Garden of Eden's temptation into a contemporary memento mori coiled around glazed clay—where Adam himself was formed from clay (Genesis 2:7). The handmade vase depicts Adam and Eve reaching for forbidden fruit beneath the Tree of Knowledge, with Pepe as the sly tempter snake between them. The reverse depicts the Baroque-like scripture \"Don't Trust, Verify\", referencing deception, blockchain truth, and humanity's fall—echoing the story's lesson. Drawing from Genesis iconography, crypto ethos, and historical ceramic craftsmanship, Barrows blends Renaissance with the tactile ritual of clay. What once adorned sacred interiors now comments on trustlessness in an age of immutable ledgers. Barrows' work bridges ancient scripture with crypto culture referencing temptation and verification.",
+    "themes": ["bitcoin", "genesis block", "pepe", "origin stories", "don't trust verify", "blockchain"],
+    "tags": ["vase", "pepe", "genesis", "adam and eve"],
     "metadata": {
       "traits": [
         { "label": "Year", "value": "2025" },
@@ -51,14 +51,15 @@
       "/images/pieces/This is Fine/7-flame-glaze-vase-side-view-dimitria-barrows-art-as-a-consequence.png",
       "/images/pieces/This is Fine/8-angled-thisisfine-vase-roses-by-dimitria-barrows-art-as-a-consequence.jpeg"
     ],
-    "description": "Adapted from 'This Is Fine' (2013) by KC Green — Barrows transforms KC Green's iconic internet meme into a contemporary memento mori, translating the meme's sardonic optimism into a lasting object of reflection. The handmade glazed vase reimagines the calm dog amid flames on one side and his skeletal form on the other — a Baroque-like meditation on humor, denial, and decay. A crown of lush, hand-sculpted roses and sharp thorns rises from the burnt rim, merging beauty and pain while evoking the vanitas tradition. What once adorned domestic interiors now becomes commentary on fragility in the age of digital permanence.",
+    "description": "Adapted from \"This Is Fine\" (2013) by KC Green — This ceramic sculpture by Dimitria Barrows transforms KC Green's iconic internet meme into a contemporary memento mori, translating the meme's sardonic optimism into a lasting object of reflection. The handmade glazed vase reimagines the calm dog amid flames on one side and his skeletal form on the other — a Baroque‑like meditation on humor, denial, and decay. A crown of lush, hand‑sculpted roses and sharp thorns rises from the burnt rim, merging beauty and pain while evoking the vanitas tradition. Drawing from internet culture and historical ceramic craftsmanship, Barrows blends Baroque drama with the tactile ritual of clay. What once adorned domestic interiors now becomes commentary on fragility in the age of digital permanence. Barrows' work turns digital ephemera into an enduring meditation on resilience — quietly asking what remains when the fire becomes our new normal.",
     "themes": ["internet culture", "memento mori", "denial", "vanitas", "meme mythology"],
     "tags": ["vase", "skeleton dog", "this is fine", "flames", "roses"],
     "metadata": {
       "traits": [
         { "label": "Year", "value": "2024" },
         { "label": "Medium", "value": "Glazed ceramic" },
-        { "label": "Dimensions", "value": "46 × 37 cm" }
+        { "label": "Dimensions", "value": "46 × 37 cm" },
+        { "label": "Weight", "value": "5 kg" }
       ]
     },
     "onchain": {
@@ -81,7 +82,7 @@
     "title": "The Year Is 2030",
     "available": true,
     "images": [
-      "/images/pieces/2030/1-Contemporary-Ceramic-Art-Vessel-with-Pepe-the-Frog-and-Bitcoin\u2013by-Dimitria-Barrows.png",
+      "/images/pieces/2030/01-Hand-Painted-Ceramic-Vase-with-Rainbow-Pepe-Figures-Crypto-and-Meme-Art-by-Dimitria-Barrows.png",
       "/images/pieces/2030/2-Hand-Painted-Ceramic-Vase-with-Rainbow-Pepe-Figures-Crypto-and-Meme-Art-by-Dimitria-Barrows.png",
       "/images/pieces/2030/3-Bitcoin-and-Pepe-the-Frog-Contemporary-Ceramic-Sculpture -by-Dimitria-Barrows.png",
       "/images/pieces/2030/4-Pepe-the-Frog-Crypto-Art-on-Ceramic-Vessel\u2013Contemporary-Meme-Sculpture-by-Dimitria-Barrows.png",
@@ -90,14 +91,15 @@
       "/images/pieces/2030/7-Bitcoin-Wallet-Text-on-Ceramic-Art-Vessel\u2013 Crypto-Nostradamus-by-Dimitria-Barrows.png",
       "/images/pieces/2030/8-Meme-Landscape-with-Pepe\u2013 Contemporary-Ceramic-Art-by-Dimitria-Barrows.png"
     ],
-    "description": "Barrows transforms the ceramic vessel into a rotating narrative surface where meme culture, cryptocurrency fantasy, and pop-cultural nostalgia converge. Five walking Pepe figures encircle the form in a rhythmic procession referencing Grateful Dead's Dancing Bears, suggesting optimism, collectivity, and speculative movement toward a promised digital future. Rendered in a bright pastoral landscape beneath a rainbow sky, a painted pizza box references Bitcoin's first transaction — a secular relic marking the moment digital abstraction entered material exchange. The painted text reads: 'THE YEAR IS 2030. YOU GLANCE AT YOUR BITCOIN WALLET AND IT DISPLAYS AN ASTRONOMICAL VALUE. YOU GRIN AND GO BACK TO YOUR BUSY DAY.'",
+    "description": "THE YEAR IS 2030. Dimitria Barrows transforms the ceramic vessel into a rotating narrative surface where meme culture, cryptocurrency fantasy, and pop-cultural nostalgia converge. The panoramic composition unfolds as the viewer circles the form, activating it as both object and image. Five walking Pepe figures encircle the form in a rhythmic procession referencing Grateful Dead's Dancing Bears. Their repetition suggests optimism, collectivity, and speculative movement toward a promised digital future. Rendered in a bright pastoral landscape beneath a rainbow sky, the collective figures evoke an utopian promise suspended between sincerity and satire. Flowers and bees with Pepe faces create a fully memetic landscape, while a painted pizza box references the first Bitcoin transaction. By translating internet imagery and cryptocurrency lore into hand-built ceramic, Barrows materializes decentralized belief systems in sculptural, handcrafted form, bridging meme culture and contemporary ceramic art. The painted text reads: \"THE YEAR IS 2030. YOU GLANCE AT YOUR BITCOIN WALLET AND IT DISPLAYS AN ASTRONOMICAL VALUE. YOU GRIN AND GO BACK TO YOUR BUSY DAY.\" The statement reflects aspirational Bitcoin futurism, presenting extreme digital wealth as everyday normality.",
     "themes": ["bitcoin", "future", "pepe", "meme culture", "crypto history"],
     "tags": ["vase", "rainbow", "pepe", "bitcoin", "2030"],
     "metadata": {
       "traits": [
         { "label": "Year", "value": "2024" },
         { "label": "Medium", "value": "Glazed ceramic" },
-        { "label": "Dimensions", "value": "30 × 25 cm" }
+        { "label": "Dimensions", "value": "30 × 25 cm" },
+        { "label": "Weight", "value": "5 kg 2.2 kg (4.85 lbs)" }
       ]
     },
     "onchain": {
@@ -127,13 +129,14 @@
       "/images/pieces/GM/pepe-crypto-ceramic-vessel-by-dimitria-barrows.png"
     ],
     "description": "This brightly glazed ceramic vessel brings together internet meme culture and crypto. On one side, a 'Salt Bae'-like Pepe throws tokens and BTC instead of salt, turning a famous gesture into a playful take on hype, value, and online trends. On the other side, a red 'GM' fries carton shows a small Pepe hiding inside — a simple nod to hustle culture and the dream of turning everyday work into crypto success.",
-    "themes": ["web3 culture", "morning ritual", "pepe", "bitcoin"],
+    "themes": ["web3 culture", "morning ritual", "pepe", "bitcoin", "McDonalds"],
     "tags": ["vase", "gm", "pepe", "salt bae", "fries"],
     "metadata": {
       "traits": [
         { "label": "Year", "value": "2025" },
         { "label": "Medium", "value": "Glazed ceramic" },
-        { "label": "Dimensions", "value": "16 × 14 cm" }
+        { "label": "Dimensions", "value": "16 × 14 cm" },
+        { "label": "Weight", "value": "0.7 kg" }
       ]
     },
     "onchain": {
@@ -159,12 +162,12 @@
       "/images/pieces/CREAM/CREAM-song-wu-tang-clan-inspired-by-tom-and-jerry-cartoon-ceramics-painting-vessel.png",
       "/images/pieces/CREAM/tom-and-jerry-cartoon-inspired-wu-tang-clan-song-cream-ceramics-vase-art-as-a-consequence.png"
     ],
-    "description": "Cash Rules Everything Around Me. Wu-Tang Clan's financial manifesto plays out through Tom and Jerry chasing each other across this ceramic vessel. The irony is the point — fiat chase rendered in hand-painted earthenware.",
-    "themes": ["wu-tang", "money", "pop culture", "tom and jerry"],
+    "description": "This hand-painted ceramic vase by contemporary artist Dimitria Barrows fuses classical porcelain motifs, animation history, and hip-hop culture into a sharp visual allegory on money and pursuit. Around the rim, the phrase \"C.R.E.A.M.\"—short for Cash Rules Everything Around Me—references Wu-Tang Clan's financial manifesto, played out through Tom and Jerry chasing each other across the vessel's surface. The irony is the point—the fiat chase rendered in hand-painted earthenware. On one side, Jerry spears a wedge of cheese placed on a Ming-style porcelain plate, merging imperial ceramic symbolism with pop culture. The reverse shows Tom pushing an empty barrel, turning the cartoon rivalry into a metaphor for labor, desire, and the illusion of wealth. Blending slapstick, Chinese ceramic tradition, and hip-hop commentary, Barrows offers a witty reflection on how value shifts across cultures.",
+    "themes": ["wu-tang", "money", "pop culture", "tom and jerry", "Ming"],
     "tags": ["vase", "cream", "wu-tang", "tom and jerry", "cash"],
     "metadata": {
       "traits": [
-        { "label": "Year", "value": "2024" },
+        { "label": "Year", "value": "2026" },
         { "label": "Medium", "value": "Glazed ceramic" },
         { "label": "Dimensions", "value": "~28 cm" }
       ]
@@ -194,14 +197,15 @@
       "/images/pieces/Homer/3-handmade-leaf-ceramic-vessel-texture-by-contemporary-ceramic-artist-dimitria-barrows.png",
       "/images/pieces/Homer/4-contemporary-ceramic-vessel-green-glaze-detail-by-ceramic-artist-dimitria-barrows..png"
     ],
-    "description": "Barrows transforms a viral internet GIF from The Simpsons into a sculptural ceramic vessel. The work references the widely circulated image of Homer Simpson disappearing into a hedge — an enduring meme symbolizing social withdrawal, awkwardness, and digital-era self-erasure. The cylindrical form is fully encrusted with individually handmade ceramic leaves, glazed in layered greens and carved with detailed veining. From within this dense foliage, the cartoon figure emerges mid-disappearance, creating a visual tension between flat, digital animation and tactile, hand-built clay. Open and hollow, the vessel reinforces themes of concealment and absence.",
-    "themes": ["internet culture", "meme", "simpsons", "disappearing"],
+    "description": "In Homer, Dimitria Barrows transforms a viral internet GIF from The Simpsons into a sculptural ceramic vessel. The work references the widely circulated image of Homer Simpson disappearing into a hedge—an enduring meme symbolizing social withdrawal, awkwardness, and digital-era self-erasure. The cylindrical form is fully encrusted with individually handmade ceramic leaves, glazed in layered greens and carved with detailed veining. From within this dense foliage, the cartoon figure emerges mid-disappearance, creating a visual tension between flat, digital animation and tactile, hand-built clay. The labor-intensive surface contrasts with the immediacy of meme culture, translating a looping digital image into a singular, materially grounded artwork. Open and hollow, the vessel reinforces themes of concealment and absence. By merging contemporary internet culture with traditional ceramic techniques, Barrows bridges digital and physical realms, situating meme imagery within the lineage of contemporary ceramic sculpture.",
+    "themes": ["internet culture", "meme", "homer simpsons", "the simpsons"],
     "tags": ["vase", "homer", "green", "leaf glaze", "simpsons"],
     "metadata": {
       "traits": [
         { "label": "Year", "value": "2024" },
         { "label": "Medium", "value": "Glazed ceramic" },
-        { "label": "Dimensions", "value": "21 × 20 cm" }
+        { "label": "Dimensions", "value": "21 × 20 cm" },
+        { "label": "Weight", "value": "3 kg" }
       ]
     },
     "onchain": {
@@ -224,17 +228,17 @@
     "title": "Magic Internet Money",
     "available": true,
     "images": [
-      "/images/pieces/Magic Internet Money/bitcoin-SHA-256-Secure-hash-alorithm-ceramics-art-as-a-consequence.png",
+      "/images/pieces/Magic Internet Money/01-ceramics-crypto-magic-internet-money.png",
       "/images/pieces/Magic Internet Money/ceramics-crypto-magic-internet-money.png",
       "/images/pieces/Magic Internet Money/pepe-magician-magic-internet-money.png",
       "/images/pieces/Magic Internet Money/SHA-256-Secure-hash-alorithm-ceramics-art-as-a-consequence.png"
     ],
-    "description": "Wizard Pepe conjures the blockchain in warm amber glaze. Floating equations — elliptic curves, hash functions, the whole arcane apparatus — orbit the wizard who started a thousand memes. This piece is for the person who explained Bitcoin at Thanksgiving 2017 and was right.",
-    "themes": ["bitcoin", "magic", "wizard pepe", "crypto", "meme mythology"],
+    "description": "This hand-painted ceramic vase by contemporary artist Dimitria Barrows explores the mythology and mechanics of cryptocurrency. The phrase \"Magic Internet Money\"—a meme used to describe Bitcoin—anchors the work's tension between effortless digital wealth and the intricate mathematics behind blockchain. At its center, Wizard Pepe conjures the blockchain in warm amber glaze. Floating equations—elliptic curves, hash functions, the whole arcane apparatus—orbit the wizard who sparked a thousand memes. Around the vessel, hand-painted cryptographic formulas reference SHA‑256 algorithms, block structures, and digital signatures, revealing the dense logic beneath crypto's playful surface. Rendered in a bright orange glaze referencing Bitcoin's color, the vase merges symbols of stored value with modern systems of speculative exchange. By blending meme culture, cryptography, and craft, Barrows exposes the paradox of \"magic internet money\"—a digital illusion built on immense computational labor.",
+    "themes": ["bitcoin", "magic", "wizard pepe", "crypto", "meme culture"],
     "tags": ["vase", "orange", "wizard pepe", "bitcoin", "equations", "crypto"],
     "metadata": {
       "traits": [
-        { "label": "Year", "value": "2024" },
+        { "label": "Year", "value": "2025" },
         { "label": "Medium", "value": "Glazed ceramic" },
         { "label": "Dimensions", "value": "~38 cm" }
       ]
@@ -259,10 +263,10 @@
     "title": "Seed Phrase",
     "available": true,
     "images": [
-      "/images/pieces/SEEDPHRSE/Blockchain-education-the-simpsons-ceramic-vase-art-as-a-consequence.png",
-      "/images/pieces/SEEDPHRSE/send-me-your-seedphrase-the-simpsons-ceramic-art-as-a-consequence.png",
-      "/images/pieces/SEEDPHRSE/send-me-your-seedphrase-the-simpsons-ceramic-vase-art-as-a-consequence.png",
-      "/images/pieces/SEEDPHRSE/the-simpsons-ceramic-vase-art-as-a-consequence.png"
+      "/images/pieces/SEEDPHRASE/Blockchain-education-the-simpsons-ceramic-vase-art-as-a-consequence.png",
+      "/images/pieces/SEEDPHRASE/send-me-your-seedphrase-the-simpsons-ceramic-art-as-a-consequence.png",
+      "/images/pieces/SEEDPHRASE/send-me-your-seedphrase-the-simpsons-ceramic-vase-art-as-a-consequence.png",
+      "/images/pieces/SEEDPHRASE/the-simpsons-ceramic-vase-art-as-a-consequence.png"
     ],
     "description": "Never share your seed phrase. Not with your bank, not with your exchange, not with the helpful DM. Barrows captures the cardinal rule of crypto through Simpsons iconography — the characters who have seen everything, who explain everything, rendered on ceramic that will hold flowers for decades.",
     "themes": ["crypto security", "simpsons", "meme", "self-custody"],

@@ -32,7 +32,7 @@ const cards = [
   {
     title: 'About',
     description: 'Dimitria Barrows — art professional',
-    image: f('about%20me/Dimitria-Markou-art-professional-2-copy-2.jpg'),
+    image: f('about%20me/Dimitria-Barrows-art-professional-2-copy-2.png'),
     href: '/blast-from-the-past/about',
   },
   {

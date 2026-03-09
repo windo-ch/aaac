@@ -37,14 +37,6 @@ export function PieceMetadata({ piece }: PieceMetadataProps) {
               </span>
             </div>
           ))}
-          <div className="flex flex-col gap-0.5 p-3" style={{ background: 'var(--color-bg)' }}>
-            <span className="text-[10px] uppercase tracking-widest" style={labelStyle}>
-              Unique
-            </span>
-            <span className="text-sm font-medium" style={valueStyle}>
-              Yes
-            </span>
-          </div>
         </div>
       </div>
 

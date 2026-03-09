@@ -199,22 +199,17 @@ export default function ArtDirectionPage() {
               )}
 
               {/* Images */}
-              <div
-                className="grid gap-3 mt-6"
-                style={{
-                  gridTemplateColumns: `repeat(${Math.min(section.images.length, 4)}, 1fr)`,
-                }}
-              >
+              <div className="flex gap-3 flex-wrap mt-6">
                 {section.images.map((src) => (
-                  <div key={src} className="relative w-full overflow-hidden" style={{ aspectRatio: '4/3' }}>
-                    <Image
-                      src={src}
-                      alt={section.title}
-                      fill
-                      sizes="(max-width: 768px) 50vw, 25vw"
-                      style={{ objectFit: 'cover' }}
-                    />
-                  </div>
+                  <Image
+                    key={src}
+                    src={src}
+                    alt={section.title}
+                    width={0}
+                    height={0}
+                    sizes="(max-width: 768px) 100vw, 50vw"
+                    style={{ height: '320px', width: 'auto' }}
+                  />
                 ))}
               </div>
             </div>

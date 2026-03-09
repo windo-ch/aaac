@@ -50,8 +50,8 @@ const exhibitionImages = [
     caption: 'NFT ART DAY ZRH, Kunsthaus Zurich, 2022',
   },
   {
-    src: f('about%20me/ALEX-KATZ-SHED-CLUB-ZUG-Dimitria-Markou.png'),
-    caption: 'Alex Katz "Black Dress (Yi)", SHED.Club Zug, 2021',
+    src: f('about%20me/one33seven-check-logo.png'),
+    caption: 'AFFILIATED WITH One33seven, #1337 Day 1, Single Check. A crypto-culture collective bridging connoisseurship and emergent technology.',
   },
 ]
 
@@ -73,7 +73,7 @@ export default function BlastAboutPage() {
           {/* Left: portrait */}
           <div className="relative w-full" style={{ aspectRatio: '3/4' }}>
             <Image
-              src={f('about%20me/Dimitria-Markou-art-professional-2-copy-2.jpg')}
+              src={f('about%20me/Dimitria-Barrows-art-professional-2-copy-2.png')}
               alt="Dimitria Barrows — art professional"
               fill
               priority

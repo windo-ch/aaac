@@ -157,12 +157,6 @@ const interviews: Interview[] = [
     link: f('Emily-Mae-Smith-Interview-Dimitria-Markou-Art-As-A-Consequence-compressed.pdf'),
     linkLabel: 'ELUSIVE Magazine PDF',
   },
-  {
-    name: 'Sam Spratt',
-    image: f('sam-spratt-nft-nyc-interview-nft-artist-rata-dimitria-markou-ELUSIVE-Magazine.png'),
-    excerpt:
-      'Digital painter Sam Spratt on his LUCI universe, the craft of hyper-detailed digital painting, and the NFT scene at NFT.NYC.',
-  },
 ]
 
 export default function InterviewsPage() {
