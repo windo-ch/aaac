@@ -95,7 +95,7 @@ export default async function AboutPage() {
             <p className="text-base leading-relaxed">
               Contemporary ceramic artist Dimitria Barrows (ART AS A CONSEQUENCE &mdash; AAAC)
               spent a decade working full-time in the art industry &mdash; at Gagosian, Galerie
-              Thaddaeus Ropac, and among others &mdash; handling exhibitions, sales, and artists&rsquo;
+              Thaddaeus Ropac, among others &mdash; handling exhibitions, sales, and artists&rsquo;
               studios &mdash;{' '}
               <a
                 href="/blast-from-the-past"

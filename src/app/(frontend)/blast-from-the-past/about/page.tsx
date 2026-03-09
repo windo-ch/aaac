@@ -114,7 +114,7 @@ export default function BlastAboutPage() {
 
             <p className="text-base leading-relaxed">
               She spent a decade working in the art industry — at Gagosian, Galerie Thaddaeus
-              Ropac, and among others — handling exhibitions, sales, and artists&rsquo; studios —
+              Ropac, among others — handling exhibitions, sales, and artists&rsquo; studios —
               before returning to her own practice in 2024.
             </p>
 

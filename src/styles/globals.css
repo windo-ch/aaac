@@ -163,3 +163,33 @@ body {
   font-weight: 500;
   color: var(--color-text-primary);
 }
+
+/* ─── Degen Mode ─────────────────────────────────── */
+.degen-mode {
+  /* Override both font vars — Tailwind and inline styles resolve through these */
+  --font-display: var(--font-mono);
+  --font-sans: var(--font-mono);
+  --color-accent: #f97316;
+  --color-accent-dim: #ea580c;
+}
+
+.degen-mode ::selection {
+  background: #f97316;
+  color: #0a0a0a;
+}
+
+/* Subtle CRT scanlines */
+.degen-mode body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9997;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.03) 2px,
+    rgba(0, 0, 0, 0.03) 4px
+  );
+}
