@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Suspense } from 'react'
 import { getAllPieces } from '@/lib/pieces'
 import { CollectionView } from '@/components/pieces/CollectionView'
 
@@ -28,25 +29,13 @@ export const metadata: Metadata = {
 
 export const revalidate = 60
 
-export default async function WorkPage({
-  searchParams,
-}: {
-  searchParams: Promise<{ filter?: string }>
-}) {
-  const allPieces = await getAllPieces()
-  const { filter } = await searchParams
-  const filterLower = filter?.toLowerCase() ?? ''
-  const pieces = filterLower
-    ? allPieces.filter(
-        (p) =>
-          p.themes.some((t) => t.toLowerCase() === filterLower) ||
-          p.tags.some((t) => t.toLowerCase() === filterLower)
-      )
-    : allPieces
-
+export default async function WorkPage() {
+  const pieces = await getAllPieces()
   return (
     <div style={{ paddingTop: 'var(--header-h)' }}>
-      <CollectionView pieces={pieces} activeFilter={filter} />
+      <Suspense fallback={null}>
+        <CollectionView pieces={pieces} />
+      </Suspense>
     </div>
   )
 }

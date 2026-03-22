@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { type Piece } from '@/lib/types'
 import { PieceGrid } from '@/components/pieces/PieceGrid'
@@ -9,13 +10,24 @@ import { ViewToggle } from '@/components/pieces/ViewToggle'
 
 interface CollectionViewProps {
   pieces: Piece[]
-  activeFilter?: string
 }
 
-export function CollectionView({ pieces, activeFilter }: CollectionViewProps) {
+export function CollectionView({ pieces }: CollectionViewProps) {
   const [view, setView] = useState<'grid' | 'individual'>('grid')
+  const searchParams = useSearchParams()
+  const activeFilter = searchParams.get('filter') ?? undefined
 
   const toggleView = () => setView((v) => (v === 'grid' ? 'individual' : 'grid'))
+
+  const filteredPieces = activeFilter
+    ? pieces.filter((p) => {
+        const f = activeFilter.toLowerCase()
+        return (
+          p.themes.some((t) => t.toLowerCase() === f) ||
+          p.tags.some((t) => t.toLowerCase() === f)
+        )
+      })
+    : pieces
 
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 py-10 sm:py-16">
@@ -63,9 +75,9 @@ export function CollectionView({ pieces, activeFilter }: CollectionViewProps) {
       </div>
 
       {view === 'grid' ? (
-        <PieceGrid pieces={pieces} />
+        <PieceGrid pieces={filteredPieces} />
       ) : (
-        <PieceFocus pieces={pieces} />
+        <PieceFocus pieces={filteredPieces} />
       )}
     </div>
   )
