@@ -66,7 +66,7 @@ export function PieceMetadata({ piece }: PieceMetadataProps) {
         </h3>
         <div className="flex flex-wrap gap-1.5">
           {piece.themes.map((theme) => (
-            <Tag key={theme} label={theme} />
+            <Tag key={theme} label={theme} href={`/work?filter=${encodeURIComponent(theme)}`} />
           ))}
         </div>
       </div>
@@ -75,7 +75,7 @@ export function PieceMetadata({ piece }: PieceMetadataProps) {
       <div className="border-t pt-5" style={dividerStyle}>
         <div className="flex flex-wrap gap-1.5">
           {piece.tags.map((tag) => (
-            <Tag key={tag} label={`#${tag}`} />
+            <Tag key={tag} label={`#${tag}`} href={`/work?filter=${encodeURIComponent(tag)}`} />
           ))}
         </div>
       </div>

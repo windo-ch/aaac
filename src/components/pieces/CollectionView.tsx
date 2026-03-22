@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
 import { type Piece } from '@/lib/types'
 import { PieceGrid } from '@/components/pieces/PieceGrid'
 import { PieceFocus } from '@/components/pieces/PieceFocus'
@@ -8,9 +9,10 @@ import { ViewToggle } from '@/components/pieces/ViewToggle'
 
 interface CollectionViewProps {
   pieces: Piece[]
+  activeFilter?: string
 }
 
-export function CollectionView({ pieces }: CollectionViewProps) {
+export function CollectionView({ pieces, activeFilter }: CollectionViewProps) {
   const [view, setView] = useState<'grid' | 'individual'>('grid')
 
   const toggleView = () => setView((v) => (v === 'grid' ? 'individual' : 'grid'))
@@ -38,6 +40,23 @@ export function CollectionView({ pieces }: CollectionViewProps) {
           >
             Made in Crypto Valley
           </p>
+          {activeFilter && (
+            <div className="mt-2 flex items-center gap-2">
+              <span
+                className="font-mono text-[10px] uppercase tracking-widest"
+                style={{ color: 'var(--color-text-muted)' }}
+              >
+                {activeFilter}
+              </span>
+              <Link
+                href="/work"
+                className="font-mono text-[10px] uppercase tracking-widest hover:opacity-50 transition-opacity"
+                style={{ color: 'var(--color-text-muted)' }}
+              >
+                ×
+              </Link>
+            </div>
+          )}
         </div>
 
         <ViewToggle view={view} onToggle={toggleView} />
