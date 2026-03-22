@@ -89,7 +89,7 @@ export default async function PiecePage({ params }: PageProps) {
       />
       <div className="mx-auto max-w-[1200px] px-6 py-12">
         {/* Main grid: image left, info right */}
-        <div className="grid grid-cols-1 lg:grid-cols-[1fr_340px] gap-12 lg:gap-16">
+        <div className="grid grid-cols-1 lg:grid-cols-[1fr_400px] gap-12 lg:gap-16">
           {/* Left: gallery */}
           <ImageGallery images={piece.images} title={piece.title} />
 
