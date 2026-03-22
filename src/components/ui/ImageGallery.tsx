@@ -32,7 +32,7 @@ export function ImageGallery({ images, title }: ImageGalleryProps) {
 
       {/* Thumbnail strip */}
       {hasMultiple && (
-        <div className="flex gap-2 overflow-x-auto pb-1">
+        <div className="flex justify-end gap-2 overflow-x-auto pb-1">
           {images.map((src, i) => (
             <button
               key={i}
