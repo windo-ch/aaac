@@ -19,14 +19,14 @@ export function ImageGallery({ images, title }: ImageGalleryProps) {
   return (
     <div className="flex flex-col gap-4">
       {/* Main image */}
-      <div className="relative w-full" style={{ aspectRatio: '4/5' }}>
+      <div className="relative w-full lg:max-h-[65vh]" style={{ aspectRatio: '4/5' }}>
         <Image
           src={images[active]}
           alt={`${title} — image ${active + 1}`}
           fill
           priority
           sizes="(max-width: 768px) 100vw, 60vw"
-          style={{ objectFit: 'cover' }}
+          style={{ objectFit: 'contain' }}
         />
       </div>
 

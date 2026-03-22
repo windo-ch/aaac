@@ -104,7 +104,7 @@ export default async function PiecePage({ params }: PageProps) {
           >
             {/* Back link */}
             <Link
-              href="/"
+              href="/work"
               className="font-mono text-xs uppercase tracking-widest transition-opacity hover:opacity-50 inline-flex items-center gap-1"
               style={{ color: 'var(--color-text-muted)' }}
             >
