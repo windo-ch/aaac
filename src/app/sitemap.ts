@@ -14,6 +14,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${BASE}/blast-from-the-past/about`, lastModified: new Date(), priority: 0.6 },
     { url: `${BASE}/blast-from-the-past/art-direction`, lastModified: new Date(), priority: 0.6 },
     { url: `${BASE}/blast-from-the-past/interviews`, lastModified: new Date(), priority: 0.6 },
+    { url: `${BASE}/linktree`, lastModified: new Date(), priority: 0.5 },
   ]
 
   const pieceRoutes: MetadataRoute.Sitemap = pieces.map((p) => ({
